@@ -18,6 +18,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
 - [Turtles](#turtles)
+- [Axolotls] (#axolotls)
 
 
 ## Cats
@@ -103,3 +104,9 @@ A big ol' quarantine mood
 ![Turtle skating](https://media.giphy.com/media/HuVCpmfKheI2Q/giphy.gif)
 
 He was a sk8er boi...
+
+## Axolotls
+
+![Axolotl](https://media.giphy.com/media/4YWu31EsM1ToJnAzqc/giphy.gif)
+
+Munching away, much like me in quarantine!
