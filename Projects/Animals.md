@@ -103,3 +103,9 @@ A big ol' quarantine mood
 ![Turtle skating](https://media.giphy.com/media/HuVCpmfKheI2Q/giphy.gif)
 
 He was a sk8er boi...
+
+## Axolotl
+
+![Axolotl snacking](https://media.giphy.com/media/4YWu31EsM1ToJnAzqc/giphy.gif)
+
+This axolotl is me in quarantine around Cheezits...
