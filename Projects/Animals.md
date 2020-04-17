@@ -18,6 +18,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Polar Bears](#polar-bears)
 - [Sloths](#sloths)
 - [Turtles](#turtles)
+- [Axolotls] (#axolotls)
 
 
 ## Cats
